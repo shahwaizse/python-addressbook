@@ -4,6 +4,6 @@ this project was made to practice:
 -importing modules
 -database connectivity
 -console output and user input
--file handling
+-file handling (using json)
 
 there are separate modules for storing data in files and storing data in a mysql database.
